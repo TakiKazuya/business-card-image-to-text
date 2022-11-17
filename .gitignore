@@ -1,0 +1,5 @@
+.bundle
+.idea
+vendor
+credentials
+deploy.sh
